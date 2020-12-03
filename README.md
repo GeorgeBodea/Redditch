@@ -1,5 +1,5 @@
 # asp.net mvc5 demo
- A demo of an asp.net mvc5 web application
+A platform for professors, tutors and mentors.
 
 Please modify the connection string of the database in /DevHacks/Web.config in order to run the web application
 
